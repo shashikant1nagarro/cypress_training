@@ -1,0 +1,9 @@
+{
+  "newuser1": {
+    "firstName": "NewTest",
+    "lastName": "tester",
+    "address": "address",
+    "userName": "user",
+    "password":"pasw132s"
+  }
+}
